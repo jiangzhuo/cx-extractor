@@ -1,0 +1,22 @@
+{
+  "name": "cx-extractor",
+  "version": "0.0.1",
+  "description": "cx-extractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangzhuo/cx-extractor.git"
+  },
+  "keywords": [
+    "cx-extractor"
+  ],
+  "author": "jiangzhuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangzhuo/cx-extractor/issues"
+  },
+  "homepage": "https://github.com/jiangzhuo/cx-extractor#readme"
+}
